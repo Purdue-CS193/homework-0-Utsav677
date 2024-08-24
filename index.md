@@ -10,10 +10,11 @@ Syntax highlighted code block
 
 # Utsav
 ## Header 2
-### Header 3
+### My favorite things about CS193
 
-- Bulleted
-- List
+- I am happy my teacher is chill
+- I am happy the class id designed to make my life easier without getting in the way
+- I am excited for what will go on the future
 
 1. Numbered
 2. List
